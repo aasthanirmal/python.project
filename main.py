@@ -1,3 +1,4 @@
+tasks=[]
 filename="tasks.txt"
 
 def load_task():
